@@ -1,0 +1,8 @@
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\bin\Debug\Dice__Game.exe.config
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\bin\Debug\Dice__Game.exe
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\bin\Debug\Dice__Game.pdb
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\obj\Debug\Dice__Game.csproj.AssemblyReference.cache
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\obj\Debug\Dice__Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\obj\Debug\Dice__Game.csproj.CoreCompileInputs.cache
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\obj\Debug\Dice__Game.exe
+C:\Users\Madhavi Perera 97\Desktop\CS3101\Dice__Game\Dice__Game\obj\Debug\Dice__Game.pdb
